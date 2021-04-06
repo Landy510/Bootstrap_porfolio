@@ -1,0 +1,11 @@
+.big_lightboxPic {
+  height: 440px;
+}
+.small_lightboxPic {
+  height: 50%;
+}
+@media (max-width:767px){
+  .small_lightboxPic {
+    height: 440px;
+  }
+}
